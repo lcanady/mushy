@@ -1,4 +1,4 @@
-import peg from "pegjs";
+import peg from "peggy";
 import grammar from "../grammar";
 import { Middleware, Pipe, pipeline } from "@digibear/middleware";
 
